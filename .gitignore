@@ -1,6 +1,7 @@
 .DS_Store
 # avoid large files
 *hdf5*
+*trace*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
